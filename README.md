@@ -1,4 +1,4 @@
-# Assignment JC1a
+# Assignment 3
 
 ## Task 1
 
